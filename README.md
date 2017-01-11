@@ -1,2 +1,2 @@
-# algos-data-structures
-Algorithms and Data structures related program implementations.
+# Algorithms and Data structures
+Algorithms and Data structures related program implementaions.
