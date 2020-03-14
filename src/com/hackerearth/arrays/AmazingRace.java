@@ -48,5 +48,7 @@ public class AmazingRace {
 
             System.out.println(maxIndex);
         }
+
+        scanner.close();
     }
 }

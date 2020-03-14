@@ -20,5 +20,7 @@ public class PickingNumbers {
             ArrayList<Integer> list;
 
         }
+
+        in.close();
     }
 }

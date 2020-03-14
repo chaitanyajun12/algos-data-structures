@@ -26,6 +26,7 @@ public class BiasedChandan {
         }
 
         System.out.println(sum);
+        scanner.close();
     }
 
     private static void anotherWay() {

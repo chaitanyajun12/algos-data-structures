@@ -26,5 +26,7 @@ public class LoveForFood {
                 foodStack.push(scanner.nextInt());
             }
         }
+
+        scanner.close();
     }
 }

@@ -1,7 +1,6 @@
 package com.euler;
 
 import java.util.Scanner;
-import java.util.Stack;
 
 /**
  * Created by krishna.m1 on 01/11/16.

@@ -25,5 +25,6 @@ public class Speed {
             System.out.println(sum);
         }
 
+        scanner.close();
     }
 }

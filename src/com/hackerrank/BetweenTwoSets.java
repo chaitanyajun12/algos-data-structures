@@ -1,7 +1,5 @@
 package com.hackerrank;
 
-import java.util.Comparator;
-import java.util.Map;
 import java.util.Scanner;
 
 /**
@@ -61,5 +59,6 @@ public class BetweenTwoSets {
         }
 
         System.out.println(count);
+        scanner.close();
     }
 }

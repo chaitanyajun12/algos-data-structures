@@ -29,5 +29,7 @@ public class RightRotation {
 
             System.out.println();
         }
+
+        scanner.close();
     }
 }

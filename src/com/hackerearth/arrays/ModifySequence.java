@@ -30,5 +30,7 @@ class ModifySequence {
         } else {
             System.out.println("YES");
         }
+
+        s.close();
     }
 }

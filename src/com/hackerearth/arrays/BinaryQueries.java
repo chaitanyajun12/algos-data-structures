@@ -22,7 +22,6 @@ public class BinaryQueries {
                 int index = scanner.nextInt() - 1;
                 arr[index] = 1 - arr[index];
             } else if (type == 0) {
-                int X = scanner.nextInt();
                 int Y = scanner.nextInt();
                 if(arr[Y - 1] == 0) {
                     System.out.println("EVEN");
@@ -32,5 +31,6 @@ public class BinaryQueries {
             }
         }
 
+        scanner.close();
     }
 }

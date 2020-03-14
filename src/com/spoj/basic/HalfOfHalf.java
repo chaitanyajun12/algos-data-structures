@@ -21,5 +21,7 @@ class HalfOfHalf
 
             System.out.println();
         }
+         
+        scanner.close();
     }
 }

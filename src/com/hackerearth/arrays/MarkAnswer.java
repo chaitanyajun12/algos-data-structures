@@ -27,5 +27,6 @@ public class MarkAnswer {
         }
 
         System.out.println(sum);
+        scanner.close();
     }
 }
