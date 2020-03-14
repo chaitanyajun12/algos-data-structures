@@ -1,4 +1,4 @@
-package com.practice;
+package com.ib.trees;
 
 /**
  * Created by krishna.m1 on 26/11/16.
