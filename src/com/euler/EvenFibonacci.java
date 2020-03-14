@@ -32,5 +32,6 @@ public class EvenFibonacci {
             System.out.println(evenSum);
         }
 
+        in.close();
     }
 }

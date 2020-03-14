@@ -34,6 +34,6 @@ public class SmallestMultiple {
             }
         }
 
-        Stack stack;
+        in.close();
     }
 }

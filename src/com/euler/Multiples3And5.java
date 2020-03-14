@@ -25,5 +25,6 @@ public class Multiples3And5 {
             System.out.println(sum);
         }
 
+        in.close();
     }
 }

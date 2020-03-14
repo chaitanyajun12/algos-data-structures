@@ -27,6 +27,8 @@ public class LargestPrimeFactor {
                 }
             }
         }
+
+        in.close();
     }
 
     private static boolean isPrime(long number) {
