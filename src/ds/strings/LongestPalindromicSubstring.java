@@ -1,6 +1,11 @@
 package ds.strings;
 
 public class LongestPalindromicSubstring {
+
+    /**
+     * Time complexity: O(n^2)
+     * Space complexity: O(n)
+     */
     public static void main(String[] args) {
         String str = "abba";
         int N = str.length();
