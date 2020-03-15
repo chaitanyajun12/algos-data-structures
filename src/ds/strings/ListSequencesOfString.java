@@ -3,12 +3,16 @@ package ds.strings;
 import java.util.HashSet;
 import java.util.Set;
 
-public class LongestCommonSubsequence {
+public class ListSequencesOfString {
     public static void main(String args[]) {
-        String str = "abcd";
-                
+    
     }
 
+    /**
+     * Gets list of all possible sequences for a given string.
+     * @param str
+     * @return
+     */
     static Set<String> getSequencesList(String str) {
         int N = str.length();
         Set<String> sequences = new HashSet<>();
